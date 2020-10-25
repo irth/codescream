@@ -21,5 +21,11 @@ Add this line somewhere in your project, preferably in the entry point.
 import codescream
 ```
 
-Unmute your speakers :)
+Unmute your speakers, do something that throws an exception :)
 
+## Reviews
+
+
+    ja pierdole ale się przestraszyłem XDDD
+    
+~ [@EdwardEisenhauer](https://github.com/EdwardEisenhauer)
