@@ -1,20 +1,20 @@
-import sys
-import threading
-from playsound import playsound
-
 import os
+
+from playsound import playsound
 
 SCREAM_PATH = os.path.join(os.path.dirname(
     os.path.realpath(__file__)), "scream1.wav")
 
 
+def enable():
+    from . import hook
+
 def scream():
     playsound(SCREAM_PATH)
 
-
-def except_hook(exctype, value, traceback):
-    threading.Thread(target=scream).start()
-    sys.__excepthook__(exctype, value, traceback)
-
-
-sys.excepthook = except_hook
+import threading
+def deprecated(f):
+    def wrapped(*args, **kwargs):
+        threading.Thread(target=scream).start()
+        return f(*args, **kwargs)
+    return wrapped

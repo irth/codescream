@@ -10,8 +10,8 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="codescream",
-    version="1.0.0",
-    description="Read the latest Real Python tutorials",
+    version="2.0.1",
+    description="Make your computer scream at you when you make a mistake.",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/irth/codescream",

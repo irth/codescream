@@ -17,11 +17,23 @@ pip install codescream
 
 Add this line somewhere in your project, preferably in the entry point.
 
-```
-import codescream
+```python
+from codescream import hook
 ```
 
 Unmute your speakers, do something that throws an exception :)
+
+You can also use it to mark functions as deprecated!
+
+```python
+from codescream import deprecated
+
+@deprecated
+def foo():
+    print("Do not use me!")
+```
+
+Now the computer will scream whenever someone uses the deprecated function.
 
 ## Reviews
 
