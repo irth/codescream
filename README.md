@@ -13,6 +13,10 @@ No?
 pip install codescream
 ```
 
+> ⚠️ **Note for macOS users**  
+> 
+> On macOS, with Python 3.9+, you might need to install [PyObjC](https://pypi.org/project/pyobjc/) beforehand. Otherwise, you get errors about Python 2.7 dependency.
+
 ## Usage
 
 Add this line somewhere in your project, preferably in the entry point.
