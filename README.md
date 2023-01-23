@@ -35,9 +35,19 @@ def foo():
 
 Now the computer will scream whenever someone uses the deprecated function.
 
-## Reviews
+## Testimonials
 
 
     ja pierdole ale się przestraszyłem XDDD
     
 ~ [@EdwardEisenhauer](https://github.com/EdwardEisenhauer)
+
+
+    jebany, jak szanuję xDDDD
+
+~ [@pidpawel](https://github.com/pidpawel)
+
+
+    jezu piekne
+
+~ [@consi](https://github.com/consi)
