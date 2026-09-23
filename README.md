@@ -55,3 +55,12 @@ Now the computer will scream whenever someone uses the deprecated function.
     jezu piekne
 
 ~ [@consi](https://github.com/consi)
+
+
+    [codescream_scream1.wav]
+    
+    zgniłem bo się otworzyło w VLC w tle a ono się chwilę ładowało
+
+    więc jak już doszedłem do wniosku że nie działa to nagle było AAAA
+
+~ [@kosma](https://github.com/kosma)
