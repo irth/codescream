@@ -39,23 +39,26 @@ def foo():
 
 Now the computer will scream whenever someone uses the deprecated function.
 
-## Testimonials
 
+## Testimonials
 
     ja pierdole ale się przestraszyłem XDDD
     
 ~ [@EdwardEisenhauer](https://github.com/EdwardEisenhauer)
 
+---
 
     jebany, jak szanuję xDDDD
 
 ~ [@pidpawel](https://github.com/pidpawel)
 
+---
 
     jezu piekne
 
 ~ [@consi](https://github.com/consi)
 
+---
 
     [codescream_scream1.wav]
     
@@ -65,20 +68,28 @@ Now the computer will scream whenever someone uses the deprecated function.
 
 ~ [@kosma](https://github.com/kosma)
 
+---
+
     Hi Wojciech,
 
-    Saw your open-source work on codescream on GitHub and your background building in Go Software Engineer.
+    Saw your open-source work on codescream on GitHub and your background
+    building in Go Software Engineer.
     
-    We have an active search for a flexible remote Open Source GitHub Maintainer contractor engagement ($150-$300/hr USD, flexible hours / side contract) that can be completed alongside your existing commitments, closely aligned with your verified background.
+    We have an active search for a flexible remote Open Source GitHub Maintainer
+    contractor engagement ($150-$300/hr USD, flexible hours / side contract)
+    that can be completed alongside your existing commitments, closely aligned
+    with your verified background.
     
-    (We also have an active parallel track for a GitHub Specialist at $90-$175/hr USD with flexible hours if you prefer that focus).
+    (We also have an active parallel track for a GitHub Specialist at
+    $90-$175/hr USD with flexible hours if you prefer that focus).
     
     Would this track be worth a brief look this week?
     
-    Best regards,
-    Talent Partnerships | [CENSORED]
+    Best regards, Talent Partnerships | [CENSORED]
 
 ~ some form of scam I guess lol? like did you see the project you mention??
+
+---
 
     12:06 <M> Wtf is codescream
     
